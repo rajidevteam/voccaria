@@ -1,3 +1,24 @@
 ============================================
 Visualizing Content, Features & Structure
 ============================================
+
+Root page:
+  Navbar: logo, resource library, sign-up, login
+  Hero section: headline, paragraph under it, 2 cta buttons, backgroud design
+  Explain about the website:
+    Our mission
+    How it works
+    Our paid plans
+    Our instructors
+    FAQ (possibly)
+  Footer
+  
+Home page:
+  Navbar:
+  Some overview of the library:
+    Progress bar of the library if the user used it
+    Some of the featured lessons
+  Getting free and paid lesson informatin & cta buttons
+  Footer
+
+library page:
