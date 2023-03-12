@@ -21,4 +21,12 @@ Home page:
   Getting free and paid lesson informatin & cta buttons
   Footer
 
-library page:
+Library page:
+  Some heading and paragraph to describe what these are
+  All the different sections in a vertical view
+    A single section will contain:
+    - Section title
+    - How many videos and written stuff there is
+    - Status of how much is completed by the user
+    - Mark as done (similarly, they can unmark)
+  Pagination (if needed)
