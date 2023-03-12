@@ -29,4 +29,5 @@ Library page:
     - How many videos and written stuff there is
     - Status of how much is completed by the user
     - Mark as done (similarly, they can unmark)
+    - Option to add the lesson to favorites
   Pagination (if needed)
