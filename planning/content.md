@@ -27,9 +27,7 @@ Your progress will be monitored via the Your One Voice Discord server, where you
 - Submit recordings publicly in the One Voice server for evaluation when available
 - Scheduling is less flexible, and personalization options are limited due to time constraints
 
-## Testimonials
-
-From the [current Voccaria website](https://voccaria.com/)
+For free voice lessons and more [join voccaria discord server](https://discord.gg/4Z5JKYPhTe)
 
 ### Paid Lessons
 
@@ -37,6 +35,10 @@ From the [current Voccaria website](https://voccaria.com/)
 - Focus on both technique and supervised practice during lessons
 - Submit recordings privately for prompt evaluation
 - Greater personalization and dedicated space to share resources and progress due to increased lesson time
+
+## Testimonials
+
+From the [current Voccaria website](https://voccaria.com/)
 
 ## Pricing
 
@@ -75,6 +77,14 @@ My teaching method is straightforward—fewer mind tricks, more focus on anatomy
 A wealth of free resources, including handpicked YouTube videos from across the web and text written by me, are well-organized and available for you to learn independently. You can always ask questions, submit recordings, and receive feedback at no cost. There's a practice routine suitable for both beginners and advanced students, along with homework channels featuring specific instructions for submitting your attempts, ensuring everything progresses smoothly—from posture and breathing to mixing and range extension exercises.
 
 I do not withhold any information, whether you participate in free or paid lessons. The paid lessons offer greater personalization due to the additional time available.
+
+## Mia's Socials
+
+- [Discord profile](https://discordapp.com/users/140513822069882881)
+- [Twitch](https://www.twitch.tv/miavoiceteacher)
+- [Patreon](https://www.patreon.com/MiaVoiceTeacher)
+- [Youtube](https://www.youtube.com/@miavoiceteacher)
+- [StreamElements](https://www.youtube.com/@miavoiceteacher)
 
 ---
 
