@@ -31,3 +31,9 @@ Library page:
     - Mark as done (similarly, they can unmark)
     - Option to add the lesson to favorites
   Pagination (if needed)
+
+Single lesson page:
+  Mini navigation to go back to the single section page or sections page
+  Lesson title
+  The video and/or the written stuff
+  Comment section
