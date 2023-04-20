@@ -6,6 +6,8 @@
 
 Unlock Your Voice & Flourish with Voccaria: Personalized Vocal Coaching for Aspiring Singers
 
+### Paragraph
+
 > We need a paragraph that has 2 or 3 sentence and should take like 2 or 3 lines in a width of 60 or 75 characters per line. The paragraph is for explaining **what we do and how we can help you**
 > You can watch this video about headlines:
 > [Watch Me Rewrite 7 Perfect Headlines](https://youtu.be/Ddred_AqShM)
@@ -35,6 +37,8 @@ For free voice lessons and more [join voccaria discord server](https://discord.g
 - Focus on both technique and supervised practice during lessons
 - Submit recordings privately for prompt evaluation
 - Greater personalization and dedicated space to share resources and progress due to increased lesson time
+
+To get paid lessons [fill up this form and submit](https://docs.google.com/forms/d/1dW-N6xyf7ATc6zCIL0rR1I63EN4A4U6JghhPA6xi2pM/viewform?edit_requested=true)
 
 ## Testimonials
 
