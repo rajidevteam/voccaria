@@ -3,6 +3,8 @@
 - [Perfect Landing Page Design Explained in 5 minutes](https://youtu.be/GTNgiTK-ic8)
 - [The Best Homepage Layout In Web Design Supported by UX](https://youtu.be/g0db5kA4BfQ)
 
+---
+
 # Content for Voccaria's homepage
 
 ## HERO SECTION
