@@ -1,10 +1,3 @@
-# Planning homepage contents
-
-- [Perfect Landing Page Design Explained in 5 minutes](https://youtu.be/GTNgiTK-ic8)
-- [The Best Homepage Layout In Web Design Supported by UX](https://youtu.be/g0db5kA4BfQ)
-
----
-
 # Content for Voccaria's homepage
 
 ## HERO SECTION
@@ -82,3 +75,10 @@ My teaching method is straightforward—fewer mind tricks, more focus on anatomy
 A wealth of free resources, including handpicked YouTube videos from across the web and text written by me, are well-organized and available for you to learn independently. You can always ask questions, submit recordings, and receive feedback at no cost. There's a practice routine suitable for both beginners and advanced students, along with homework channels featuring specific instructions for submitting your attempts, ensuring everything progresses smoothly—from posture and breathing to mixing and range extension exercises.
 
 I do not withhold any information, whether you participate in free or paid lessons. The paid lessons offer greater personalization due to the additional time available.
+
+---
+
+# Planning homepage contents
+
+- [Perfect Landing Page Design Explained in 5 minutes](https://youtu.be/GTNgiTK-ic8)
+- [The Best Homepage Layout In Web Design Supported by UX](https://youtu.be/g0db5kA4BfQ)
