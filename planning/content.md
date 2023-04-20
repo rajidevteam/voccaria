@@ -92,7 +92,7 @@ I do not withhold any information, whether you participate in free or paid lesso
 
 ---
 
-# Planning homepage contents
+# Videos you should watch for planning homepage contents, to know what makes an effective homepage
 
 - [Perfect Landing Page Design Explained in 5 minutes](https://youtu.be/GTNgiTK-ic8)
 - [The Best Homepage Layout In Web Design Supported by UX](https://youtu.be/g0db5kA4BfQ)
