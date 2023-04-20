@@ -1,7 +1,7 @@
 # Planning homepage contents
 
-(Perfect Landing Page Design Explained (in 5 minutes))[https://youtu.be/GTNgiTK-ic8]
-(The Best Homepage Layout In Web Design (Supported by UX))[https://youtu.be/g0db5kA4BfQ]
+(Perfect Landing Page Design Explained in 5 minutes)[https://youtu.be/GTNgiTK-ic8]
+(The Best Homepage Layout In Web Design Supported by UX)[https://youtu.be/g0db5kA4BfQ]
 
 # Content for Voccaria's homepage
 
@@ -13,7 +13,7 @@ Unlock Your Voice & Flourish with Voccaria: Personalized Vocal Coaching for Aspi
 
 > We need a paragraph that has 2 or 3 sentence and should take like 2 or 3 lines in a width of 60 or 75 characters per line. The paragraph is for explaining **what we do and how we can help you** - Raji
 > You can watch this video about headlines:
-(Watch Me Rewrite 7 Perfect Headlines)[https://youtu.be/Ddred_AqShM]
+> (Watch Me Rewrite 7 Perfect Headlines)[https://youtu.be/Ddred_AqShM]
 
 ## Our Collabborative Goals
 
