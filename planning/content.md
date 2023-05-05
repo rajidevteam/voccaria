@@ -6,6 +6,8 @@
 
 Unlock Your Voice & Flourish with Voccaria: Personalized Vocal Coaching for Aspiring Singers
 
+> We'll need a better headline though 
+
 ### Paragraph
 
 > We need a paragraph that has 2 or 3 or 4 or 5 sentences and should take like 2 or 3 or 4 or 5 lines in a width of 60 or 75 characters per line. The paragraph is for explaining **what we do and how we can help you**
